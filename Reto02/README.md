@@ -5,10 +5,17 @@ para lo cual se muestra los siguientes diagramas que describen la solución en c
 <h2>Chocolate princesa</h2>
 <img src="https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product-packaging-/blob/master/Reto02/assets/bloques-princesa.JPG" align="center">
 <h2>Ejemplo</h2>
-<p> 
-<img src="https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product-packaging-/blob/master/Reto02/assets/princesa.jpg" align="left">
-<img src="https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product-packaging-/blob/master/Reto02/assets/princesa-ocr.jpg" align="right">
-</p>
+
+<table width="100%" border="0" cellpadding="2">
+    <tr>
+        <td>
+            <img src=""https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product packaging-/blob/master/Reto02/assets/princesa.jpg" width="20px" height="30px"/>
+        </td>
+        <td>
+            <img src="https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product-packaging-/blob/master/Reto02/assets/princesa-ocr.jpg" width="20px" height="30px"/>
+        </td>
+    </tr>
+<table>
 
 <h2>Bolsa sal</h2>
 <img src="https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product-packaging-/blob/master/Reto02/assets/bloques-sal.JPG" align="center">
