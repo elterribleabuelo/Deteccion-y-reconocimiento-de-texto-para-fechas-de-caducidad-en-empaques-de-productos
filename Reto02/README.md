@@ -26,7 +26,7 @@ para lo cual se muestra los siguientes diagramas que describen la solución en c
             <img src="https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product-packaging-/blob/master/Reto02/assets/sal.jpg" width="640px" height="512px"/>
         </td>
         <td>
-            <img src="https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product-packaging-/blob/master/Reto02/assets/sal-ocr.jpg" width="640px" height="512px"/>
+            <img src="https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product-packaging-/blob/master/Reto02/assets/sal-ocr.jpg" width="357px" height="152px"/>
         </td>
     </tr>
 <table>
