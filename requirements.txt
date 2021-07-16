@@ -1,0 +1,87 @@
+absl-py==0.12.0
+alabaster==0.7.12
+aocr==0.7.6
+appdirs==1.4.4
+argh==0.26.2
+arrow==0.13.1
+astor==0.8.1
+atomicwrites==1.4.0
+brotlipy==0.7.0
+easyocr==1.3.2
+efficientnet==1.0.0
+entrypoints==0.3
+essential-generators==1.0
+h5py==2.10.0
+imageio==2.9.0
+imageio-ffmpeg==0.4.4
+imagesize @ file:///home/ktietz/src/ci/imagesize_1611921604382/work
+imgaug==0.4.0
+imutils==0.5.4
+inflection==0.5.1
+Keras==2.3.1
+Keras-Applications==1.0.8
+keras-nightly==2.5.0.dev2021032900
+keras-ocr==0.8.6
+Keras-Preprocessing==1.1.2
+matplotlib==3.4.2
+moviepy==1.0.3
+mpmath==1.2.1
+numpy==1.19.3
+numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
+oauthlib==3.1.1
+opencv-contrib-python==4.2.0.32
+opt-einsum==3.3.0
+packaging @ file:///tmp/build/80754af9/packaging_1611952188834/work
+paddleocr==2.0.6
+paddlepaddle==2.1.0
+pandas==1.2.4
+Pillow==8.2.0
+pluggy @ file:///C:/ci/pluggy_1615976530170/work
+poyo @ file:///tmp/build/80754af9/poyo_1617751526755/work
+pre-commit==2.13.0
+proglog==0.1.9
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1616415428029/work
+protobuf==3.17.3
+pyclipper==1.2.1
+pycodestyle==2.7.0
+pyflakes==2.3.1
+PyQt5==5.10
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.0
+PyQtWebEngine==5.12
+pyreadline @ file:///D:/bld/pyreadline_1611175297308/work
+pyrsistent @ file:///C:/ci/pyrsistent_1600123688363/work
+PySocks @ file:///C:/ci/pysocks_1594394709107/work
+pytesseract==0.3.7
+python-bidi==0.4.2
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+python-jsonrpc-server @ file:///tmp/build/80754af9/python-jsonrpc-server_1600278539111/work
+python-language-server @ file:///tmp/build/80754af9/python-language-server_1607972495879/work
+python-Levenshtein @ file:///D:/bld/python-levenshtein_1612200707073/work
+python-Levenshtein-wheels==0.13.2
+python-slugify @ file:///tmp/build/80754af9/python-slugify_1620405669636/work
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+PyWavelets==1.1.1
+pywin32==227
+pywin32-ctypes @ file:///C:/ci/pywin32-ctypes_1594392691209/work
+PyYAML==5.4.1
+pyzmq==20.0.0
+scikit-image==0.17.2
+scipy==1.4.1
+seaborn==0.11.1
+Shapely==1.6.4.post2
+shellcheck-py==0.7.2.1
+sip==4.19.8
+six==1.16.0
+sympy==1.8
+tensorboard==2.1.1
+tensorboard-data-server==0.6.1
+tensorflow==2.1.0
+tensorflow-estimator==2.1.0
+termcolor==1.1.0
+torch==1.9.0
+torchvision==0.10.0
+tqdm==4.61.0
+validators==0.18.2
+virtualenv==20.4.7
+visualdl==2.2.0
