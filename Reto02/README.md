@@ -1,6 +1,5 @@
 # Reto 2
-Se hizo uso de data en formato de <a href="https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product-packaging-/tree/master/Reto02/Data/videos">video</a>, para los 3 tipos de productos mencionados,
-para lo cual se muestra los siguientes diagramas que describen la solución en cada caso:
+Se hizo uso de data en formato de <a href="https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product-packaging-/tree/master/Reto02/Data/videos">video</a>, para los 3 tipos de productos mencionados, se usó detección de movimiento para encontrar el producto dentro de la faja transportadora,se halló de acuerdo al área encerrada por el contorno en cada caso, luego se muestran los siguientes diagramas que describen la solución:
 
 <h2>1.Chocolate princesa</h2>
 <img src="https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product-packaging-/blob/master/Reto02/assets/bloques-princesa.JPG" width="100%" align="center">
