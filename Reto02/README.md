@@ -37,10 +37,10 @@ para lo cual se muestra los siguientes diagramas que describen la solución en c
 <table width="100%" border="0" cellpadding="2">
     <tr>
         <td>
-            <img src="https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product-packaging-/blob/master/Reto02/assets/MSER6.png" width="800px" height="200px"/>
+            <img src="https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product-packaging-/blob/master/Reto02/assets/MSER6.png" width="674px" height="410px"/>
         </td>
         <td>
-            <img src="https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product-packaging-/blob/master/Reto02/assets/ROI6.png" width="800px" height="200px"/>
+            <img src="https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product-packaging-/blob/master/Reto02/assets/ROI6.png" width="300px" height="331px"/>
         </td>
     </tr>
 <table>
