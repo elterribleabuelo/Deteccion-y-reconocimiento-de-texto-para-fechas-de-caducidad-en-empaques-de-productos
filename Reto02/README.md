@@ -20,10 +20,10 @@ para lo cual se muestra los siguientes diagramas que describen la solución en c
 <h2>2.Bolsa sal</h2>
 <img src="https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product-packaging-/blob/master/Reto02/assets/bloques-sal.JPG" align="center">
 <h2>Ejemplo</h2>
-<table width="200%" border="0" cellpadding="2">
+<table width="100%" border="0" cellpadding="2">
     <tr>
         <td>
-            <img src="https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product-packaging-/blob/master/Reto02/assets/sal.jpg" width="2000px" height="200px"/>
+            <img src="https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product-packaging-/blob/master/Reto02/assets/sal.jpg" width="320px" height="256px"/>
         </td>
         <td>
             <img src="https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product-packaging-/blob/master/Reto02/assets/sal-ocr.jpg" width="2000px" height="200px"/>
