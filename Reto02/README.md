@@ -9,10 +9,10 @@ para lo cual se muestra los siguientes diagramas que describen la solución en c
 <table width="100%" border="0" cellpadding="2">
     <tr>
         <td>
-            <img src=""https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product packaging-/blob/master/Reto02/assets/princesa.jpg" width="20px" height="30px"/>
+            <img src=""https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product- packaging-/blob/master/Reto02/assets/princesa.jpg" width="200px" height="300px"/>
         </td>
         <td>
-            <img src="https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product-packaging-/blob/master/Reto02/assets/princesa-ocr.jpg" width="20px" height="30px"/>
+            <img src="https://github.com/renzoguerrero17/Detection-and-recognition-of-text-for-expiration-and-production-dates-on-product-packaging-/blob/master/Reto02/assets/princesa-ocr.jpg" width="200px" height="300px"/>
         </td>
     </tr>
 <table>
